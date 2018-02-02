@@ -1,0 +1,20 @@
+/* index.css */
+h1 {
+    color: rgb(255, 255, 255);
+    font-size:96px;
+  }
+  
+  .bordado {
+    border: 5px solid rgb(255, 0, 0);
+    min-height: 100px;
+    max-width: 300px;
+  }
+
+  body {
+    background-color: rgb(0, 0, 0);
+   }
+  
+  #nome {
+    border: 5px double blue;
+    
+  }
